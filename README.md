@@ -36,5 +36,5 @@ IoT · Embedded Systems · CI/CD Pipelines · Green Coding
 
 ### Get in touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Suhail Al-Dhubri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/SuhailAl-Dhubri)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:aldhubrisuhail.de@gmail.com)
